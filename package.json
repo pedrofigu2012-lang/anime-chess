@@ -1,0 +1,1 @@
+{"name":"anime-chess-online","version":"15.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
